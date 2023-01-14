@@ -1,0 +1,6 @@
+.tscache
+config
+db
+dist
+node_modules
+*.log
